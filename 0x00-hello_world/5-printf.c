@@ -1,11 +1,10 @@
 #include <stdio.h>
 
 /**
+ * main - print a c program using printf
  *
- * main - Entry Point 
- *
- * Return: Always 0 (Success)
-**/
+ * Return: 0
+ */
 
 int main(void)
 {
