@@ -28,7 +28,7 @@ char *create_array(unsigned int size, char c)
 		position = 0;
 		while (position < size) /*While for array*/
 		{
-			*(bufer + position) = c;
+			*(buffer + position) = c;
 			position++;
 		}
 
