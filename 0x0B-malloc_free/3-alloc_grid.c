@@ -1,9 +1,9 @@
 #include "main.h"
 /**
- * alloc_grid - allocates rid
+ * alloc_grid - allocates a grid, make space and free space
  * @width: takes width
  * @height: takes height
- * Return: grid
+ * Return: grid with freed spaces
  */
 
 int **alloc_grid(int width, int height)
